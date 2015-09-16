@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 RPackageSynch.Rproj
+=======
+# History files
+.Rhistory
+.Rapp.history
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+>>>>>>> ce49b5122d00d1aee526c03dd216b4108cc9905d
